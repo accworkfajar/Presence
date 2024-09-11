@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958691848096",
+    "project_id": "presence-61264",
+    "storage_bucket": "presence-61264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958691848096:android:25687eccd4c21700db3ec5",
+        "android_client_info": {
+          "package_name": "com.fajarproject.presence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCIk-J9ieHF9AufI5Umz40oxXmFO6ozRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
